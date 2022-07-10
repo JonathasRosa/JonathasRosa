@@ -1,10 +1,10 @@
 <div>
-  <h1 alingn ="center">Olá! Eu sou Jonathas Rosa, estudo Desenvolvimento Web</h1>
+  <h1 alingn ="center">Olá! Eu sou Jonathas Rosa e estudo Desenvolvimento Web</h1>
 - 🔭 Hoje tenho conhecimento sobre front-end. <br>
-- 🌱 Eu estou estudando JavaScript, React-JS, Vue-JS e Python. <br>
+- 🌱 Eu estou estudando JavaScript, React-JS, Vue-JS e Python.<br>
 </div>
 <br>
-<di>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasrosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasrosa&layout=compact&langs_count=16&theme=dark"/>
 </div>
