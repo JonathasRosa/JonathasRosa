@@ -1,8 +1,10 @@
-Olá! Eu sou Jonathas Rosa
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Eu estou estudando JavaScript
-- 😄 Pronouns: ele/dele
-
+<div>
+  <h1 alingn ="center">Olá! Eu sou Jonathas Rosa</h1>
+- 🔭 Hoje eu trabalho com front-end <br>
+- 🌱 Eu estou estudando JavaScript <br>
+- 😄 Pronouns: ele/dele <br>
+</div>
+<br>
 <di>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasrosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasrosa&layout=compact&langs_count=16&theme=dark"/>
@@ -13,7 +15,10 @@ Olá! Eu sou Jonathas Rosa
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
@@ -26,4 +31,7 @@ Olá! Eu sou Jonathas Rosa
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+<div align="center">
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
