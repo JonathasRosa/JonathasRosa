@@ -1,7 +1,7 @@
 <div>
   <h1 alingn ="center">Olá! Eu sou Jonathas Rosa e estudo Desenvolvimento Web</h1>
-- 🔭 Hoje tenho conhecimento sobre front-end. <br>
-- 🌱 Eu estou estudando JavaScript, React-JS, Vue-JS e Python.<br>
+- 🔭 Hoje tenho conhecimento sobre front-end com HTML5 e CSS3.<br>
+- 🌱 Eu estou estudando JavaScript, React-JS e Vue-JS.<br>
 </div>
 <br>
 <div>
