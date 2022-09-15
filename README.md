@@ -1,7 +1,7 @@
 <div>
   <h1 alingn ="center">Olá! Eu sou Jonathas Rosa e estudo Desenvolvimento Web</h1>
 - 🔭 Hoje tenho conhecimento amplo sobre front-end com HTML5 e CSS3.<br>
-- 🌱 Eu estou estudando JavaScript, Node.js, AngularJS e SqulServe.r<br>
+- 🌱 Eu estou estudando JavaScript, Node.js, AngularJS e SqulServer<br>
 </div>
 <br>
 <div>
