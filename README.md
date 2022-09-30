@@ -1,5 +1,5 @@
 <div>
-  <h1 alingn ="center"Hi! I'm Jonathas Rosa Web Developer I work with HTML, CSS, JavaScript, Node.JS and React.JS</h1>
+  <h1 alingn ="center">Hi! I'm Jonathas Rosa Web Developer I work with HTML, CSS, JavaScript, Node.JS and React.JS</h1>
 - 🔭 Hoje tenho conhecimento sobre front-end com HTML5, CSS3 e JavaScript.<br>
 - 🌱 Eu estou estudando Node.js, AngularJS e SQLServer<br>
 </div>
