@@ -1,7 +1,7 @@
 <div>
   <h1 alingn ="center">Hi! I'm Jonathas Rosa Web Developer Frontend.</h1>
 - 🔭 Hoje tenho conhecimento sobre HTML5, CSS3, JavaScript, AngularJS com TypeScript.<br>
-- 🌱 Eu estou estudando e Node.JS<br>
+- 🌱 Eu estou estudando Node.JS<br>
 </div>
 <br>
 <div>
