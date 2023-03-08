@@ -14,11 +14,11 @@ Let's have a coffee, I'm always open to learn new things and discuss new ideas. 
 
 </div>
 <h2 align="center">Status</h2>
-<br/>
-<div align="center">
-	<img src="https://gh-readme.vercel.app/api?username=JonathasRosa&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
-	<img src="https://gh-readme.vercel.app/api/top-langs/?username=JonathasRosa&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" align="center" />
-</div>
+<br/>	
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathasRos&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathasRos&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonathasRos&theme=nord_dark) |
+| :-: | :-: | :-: | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonathasRos&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JonathasRos&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+	
 <p align="center">
 	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=JonathasRosa&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=00cbf3&fire=00cbf3&currStreakNum=00cbf3&sideNums=00cbf3&sideLabels=00cbf3&dates=00cbf3&currStreakLabel=00cbf3&stroke=040506" width="495px" height="195px"></a>
 </p>
