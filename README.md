@@ -15,14 +15,13 @@ Let's have a coffee, I'm always open to learn new things and discuss new ideas. 
 </div>
 <h2 align="center">Status</h2>
 <br/>	
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasrosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasrosa&layout=compact&langs_count=16&theme=dark"/>
-</div>
-	
 <p align="center">
 	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=JonathasRosa&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=00cbf3&fire=00cbf3&currStreakNum=00cbf3&sideNums=00cbf3&sideLabels=00cbf3&dates=00cbf3&currStreakLabel=00cbf3&stroke=040506" width="495px" height="195px"></a>
-</p>
+</div>
+	
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
