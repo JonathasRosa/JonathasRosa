@@ -4,8 +4,14 @@
 
 <div alingn ="center">
   <h1 alingn ="center">I'm Jonathas Rosa ⚡, this is my personal Frontend Web Development journey.</h1>
-- 🔭 Today I have knowledge about HTML5, CSS3, JavaScript, AngularJS with TypeScript.<br>
-- 🌱 I'm studying Node.JS and React.JS.<br>
+- 🔭I'm passionate about technology! I had my first contact with information technology at the age of 14 and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of knowing the whole world sharing all my knowledge and also acquiring new experiences, I think knowledge is something that everyone should have access to, and I wanted to have the experience of living in the United States or Canada for a while, I love learning new things, working in groups and having new experiences, I want to work outside Brazil, improve my English and get to know new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer and specialist in systems development.
+
+I have knowledge in: JavaScript, TypeScript, Node.js, Angular, React, HTML, CSS, SaSS, Bootstrap, Git, LGPD.
+
+I have a dream of creating a community called Guia that helps people in the IT area, whose goal is to make free and quality content available to the whole world and introduce more people in the technology area, to help and guide people in their development path, I love learning about new things, working in a group and having new experiences, I want to work outside Brazil, improve my English and learn about new cultures, people and have new experiences.
+
+Let's have a coffee, I'm always open to learn new things and discuss new ideas. You can contact me at jonathasrosa85@gmail.com<br>
+
 </div>
 <h2 align="center">Status</h2>
 <br/>
@@ -35,6 +41,15 @@
   <a href = "jonathasrosa85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jonathas_rosa85/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+ <h4 align="center">
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/JONATHASROSA)](https://www.facebook.com/jonathas.rosa.31)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathas_rosa85/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/JONATHASROSA)](https://www.linkedin.com/in/jonathasrosa85/)
+
+</h4>
+ 
 </div>
 <div align="center">
 </br>
