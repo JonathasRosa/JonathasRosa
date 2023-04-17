@@ -3,9 +3,8 @@
 </div>
 
 <div alingn ="center">
-  <h1 alingn ="center">I'm Jonathas Rosa ⚡, this is my personal Frontend Web Development journey.</h1>
-  
-<p>I’m Jonathas Rosa, a full-stack engineer junior, creative coder. I made it my mission my passion for education and changing people's lives through programming, I specialize Javascript solutions.</p>
+   
+<p>I'm Jonathas Rosa, a full-stack junior creative programmer. I made it my mission, passion and change my life through programming, I specialize in Javascript solutions.</p>
 
 <p>Let's have a coffee, I'm always open to learn new things and discuss new ideas. You can contact me at jonathasrosa85@gmail.com</p>
 <br>
