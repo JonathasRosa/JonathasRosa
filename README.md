@@ -10,12 +10,14 @@
 <p>Let's have a coffee, I'm always open to learn new things and discuss new ideas. You can contact me at jonathasrosa85@gmail.com</p>
 <br>
 
-</div>
+<div>
  <h3 align="center">Se conecte comigo:</h3> 
  <h4 align="center">
+	
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/JONATHASROSA)](https://www.facebook.com/jonathas.rosa.31)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathas_rosa85/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/JONATHASROSA)](https://www.linkedin.com/in/jonathasrosa85/)
+	
 </h4>
  
 </div>
