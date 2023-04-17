@@ -29,8 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasrosa&layout=compact&langs_count=16&theme=dark"/>
 </div>
 	
-<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
-## 🛠 &nbsp;Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 ### 👩‍💻 &nbsp;Back-End
 
