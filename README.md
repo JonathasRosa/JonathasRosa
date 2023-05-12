@@ -35,7 +35,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=1572B6)&nbsp;
 
 ### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
